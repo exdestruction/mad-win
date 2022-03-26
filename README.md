@@ -1,2 +1,2 @@
 # mad-win
-Window implementation of MAD project
+Windows implementation of MAD project
